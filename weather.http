@@ -1,0 +1,3 @@
+GET https://api.openweathermap.org/data/2.5/weather?q=Aliso Viejo&appid=2da6df75a5baed4d6f00669489483f5d&units=imperial
+Accept: application/json
+###
